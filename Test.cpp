@@ -1,5 +1,5 @@
 /* Test.cpp 
- * This is a test program for Inheritance, Polymorphism, Exceptions
+ * This is a non-interactive test program for Inheritance, Polymorphism, Exceptions
  * The program acts like a database interface for a school.
  * Every object is a person and each person object has a role: student, employee, faculty, or staff, and other attributes 
  *  Created on: March 28, 2017
